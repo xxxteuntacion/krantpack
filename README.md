@@ -8,11 +8,13 @@ Met de introductie van de nieuwe duiven heb ik ook een datapack gemaakt om duive
 
 # Hoe moet ik het installeren?
 ## Krantpack installeren
-Klik op **krantpack.zip** en dan op download.
+Klik op **krantpack.zip** en dan op download. [krantpack](https://github.com/xxxteuntacion/krantpack/blob/master/krantpack.zip)
+
 Ga vervolgens naar *%appdata%/.minecraft/resourcepacks/* en gooi daar krantpack.zip in.
 
 ## Krantpack datapack installeren
-Klik op **krantpack datapack.zip** en dan op download.
+Klik op **krantpack datapack.zip** en dan op download.[krantpack](https://github.com/xxxteuntacion/krantpack/blob/master/krantpack%20datapack.zip)
+
 Ga vervolgens naar *%appdata%/.minecraft/saves/**world**/datapacks* en gooi daar krantpack.zip in.
 
 > bij **world** moet je de naam van de wereld gebruiken dus bijvoorbeeld: */saves/new world (11)/datapacks*
