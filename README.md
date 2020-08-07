@@ -14,6 +14,7 @@ Ga vervolgens naar *%appdata%/.minecraft/resourcepacks/* en gooi daar krantpack.
 ## Krantpack datapack installeren
 Klik op **krantpack datapack.zip** en dan op download.
 Ga vervolgens naar *%appdata%/.minecraft/saves/**world**/datapacks* en gooi daar krantpack.zip in.
-Bij servers moet je het zelfde doen aleen moet je */reload* doen of de server opnieuw opstarten.
 
 > bij **world** moet je de naam van de wereld gebruiken dus bijvoorbeeld: */saves/new world (11)/datapacks*
+
+Bij servers moet je het zelfde doen aleen moet je */reload* doen of *de server opnieuw opstarten* om de datapack te laten werken.
