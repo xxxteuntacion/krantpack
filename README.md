@@ -12,6 +12,8 @@ Klik op [**krantpack.zip**](https://github.com/xxxteuntacion/krantpack/blob/mast
 
 Ga vervolgens naar *%appdata%/.minecraft/resourcepacks/* en gooi daar krantpack.zip in.
 
+*voor de duiven heb je optifine nodig*
+
 ### Krantpack datapack installeren
 Klik op [**krantpack datapack.zip**](https://github.com/xxxteuntacion/krantpack/blob/master/krantpack%20datapack.zip) en dan op download.
 
